@@ -4,7 +4,7 @@ export const personalInfo = {
   nameEn: 'Huang Shiwen',
   phone: '13026226869',
   email: 'shiwenhuang891@gmail.com',
-  currentRole: '贵溪市综合高中 · 教师',
+  currentRole: 'AI 产品经理',
   tagline: 'AI 驱动 · 多方向复合型人才',
   bio: '会计学背景出身，兼具财务专业严谨性与 AI 工程化落地能力。熟练运用 Claude Code、Coze 等智能体框架，在 AIGC 视觉生成、财务数字化、AI 产品交付三个方向均有完整的项目实践经验。擅长将复杂业务规则转化为系统逻辑，以 MVP 速度完成从需求到交付的闭环。',
 };
