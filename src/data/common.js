@@ -1,6 +1,6 @@
 // 个人信息与通用内容
 export const personalInfo = {
-  name: '黄诗雯',
+  name: '黄仕文',
   nameEn: 'Huang Shiwen',
   phone: '13026226869',
   email: 'shiwenhuang891@gmail.com',
